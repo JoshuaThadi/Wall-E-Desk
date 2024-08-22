@@ -26,3 +26,8 @@
 
 🌐 Web Design Layouts: Includes layouts created for web design projects.
 </div>
+<br/>
+
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif">
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-22%20203000.png" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
