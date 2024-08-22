@@ -70,3 +70,6 @@ Description:
 Immerse yourself in futuristic worlds with this sci-fi image file. It showcases imaginative, otherworldly landscapes, advanced technology, and space-age elements, making it a great choice for sci-fi projects, concept art, or tech-related content.</h4>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Sci-Fi" target="_blank"><img width="110px" src="https://img.shields.io/badge/Sci_Fi-%234FC3F7?style=flat-square&logo=github&logoColor=000000&labelColor=%234FC3F7&color=000000" alt="Sci-Fi Badge" /></a>
 <a href="https://in.pinterest.com/TheBlackShepherd/wall-e-desk/sci-fi/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+<br/>
+
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/wow.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
