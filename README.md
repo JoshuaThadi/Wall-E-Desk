@@ -9,3 +9,18 @@
 <h1 align="center">Adios Amigo 😎!</h1>
 
 <h3 align="center">📚 This Repository is to showcase the the images and the Gifs for desktop wallpaper to banners to web Designing Layouts!</h3>
+<br/>
+
+<h2>💫 About This Repository:</h2>
+<div align="left">
+  
+🖼️ Showcase of Images: Includes a collection of images suitable for various uses.
+  
+🎞️ GIFs Collection: Features a selection of GIFs for diverse applications.
+
+🖥️ Desktop Wallpapers: Provides wallpapers specifically designed for desktop backgrounds.
+
+📢 Banners: Contains designs for banners.
+
+🌐 Web Design Layouts: Includes layouts created for web design projects.
+</div>
