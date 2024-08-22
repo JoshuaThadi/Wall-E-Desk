@@ -12,7 +12,7 @@
 <br/>
 
 <h2>💫 About This Repository</h2>
-<img align="right" alt="coding-gif" width="400" src="">
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/cama-3d.gif">
 
 <div align="left">
   
