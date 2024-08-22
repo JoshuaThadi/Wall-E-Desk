@@ -53,12 +53,13 @@ Featuring picturesque vistas and expansive views, this landscape image file capt
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/landscape"><img width="150px" width="150px" src="https://img.shields.io/badge/Land_Scape-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-2" target="_blank"><img width="170px" src="https://img.shields.io/badge/Land_Scape_2-%23FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Land Scape 2 Badge" /></a>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-3" target="_blank"><img width="170px" src="https://img.shields.io/badge/Land_Scape_3-%23FF5722?style=flat-square&logo=github&logoColor=ffffff" alt="Land Scape 3 Badge" /></a>
-<a href="https://in.pinterest.com/TheBlackShepherd/wall-e-desk/landscape/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+<a href="https://in.pinterest.com/TheBlackShepherd/wall-e-desk/landscape/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 <h2> ✨ Pixel-Art </h2>
 <h4> Pixel-Art
 Description:
 Dive into the charm of retro aesthetics with this pixel-art image file. Its distinct, blocky style pays homage to classic video games and digital art, ideal for gaming projects, nostalgic themes, or creative digital designs.</h4>
+https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art
 
 <h2> ★ Sci-Fi </h2>
 <h4> Sci-Fi
