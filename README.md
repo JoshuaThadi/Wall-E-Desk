@@ -26,11 +26,8 @@
 
 🌐 Web Design Layouts: Includes layouts created for web design projects.
 
-Check This Out:
-<a href="https://in.pinterest.com/TheBlackShepherd/pins/" target="_blank">
-  <img width="120px" src="https://img.shields.io/badge/Pinterest_Pins-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Pins Badge" />
-</a>
-
+🌌 Check This Out:<br/>
+<a href="https://in.pinterest.com/TheBlackShepherd/pins/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 </div>
 <br/>
