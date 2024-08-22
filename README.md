@@ -68,3 +68,7 @@ Dive into the charm of retro aesthetics with this pixel-art image file. Its dist
 <h4> Sci-Fi
 Description:
 Immerse yourself in futuristic worlds with this sci-fi image file. It showcases imaginative, otherworldly landscapes, advanced technology, and space-age elements, making it a great choice for sci-fi projects, concept art, or tech-related content.</h4>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Sci-Fi" target="_blank">
+  <img width="100px" src="https://img.shields.io/badge/Sci_Fi-%234FC3F7?style=flat-square&logo=github&logoColor=000000&labelColor=%234FC3F7&color=000000" alt="Sci-Fi Badge" />
+</a>
+
