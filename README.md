@@ -11,7 +11,9 @@
 <h3 align="center">📚 This Repository is to showcase the the images and the Gifs for desktop wallpaper to banners to web Designing Layouts!</h3>
 <br/>
 
-<h2>💫 About This Repository:</h2>
+<h2>💫 About This Repository</h2>
+<img align="right" alt="coding-gif" width="400" src="">
+
 <div align="left">
   
 🖼️ Showcase of Images: Includes a collection of images suitable for various uses.
