@@ -60,6 +60,7 @@ Featuring picturesque vistas and expansive views, this landscape image file capt
 Description:
 Dive into the charm of retro aesthetics with this pixel-art image file. Its distinct, blocky style pays homage to classic video games and digital art, ideal for gaming projects, nostalgic themes, or creative digital designs.</h4>
 https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art
+https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art-2
 
 <h2> ★ Sci-Fi </h2>
 <h4> Sci-Fi
