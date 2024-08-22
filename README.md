@@ -76,19 +76,17 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Sci-Fi" target="_blank"><img width="110px" src="https://img.shields.io/badge/Sci_Fi-%234FC3F7?style=flat-square&logo=github&logoColor=000000&labelColor=%234FC3F7&color=000000" alt="Sci-Fi Badge" /></a>
 <a href="https://in.pinterest.com/TheBlackShepherd/wall-e-desk/sci-fi/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 <br/>
+<div>
+  <p>
+    
+  </p>
+</div>
 
 <h2>🖥️ Tech Stack</h2>
 <ul>
- <a href="https://github.com/JoshuaThadi/your-repo" target="_blank">
-  <img width="110px" src="https://img.shields.io/badge/GIMP-%23FFFFFF?style=flat-square&logo=gimp&logoColor=000000&labelColor=%23FFFFFF&color=000000" alt="GIMP Badge" />
-</a>
-
-  <a href="https://github.com/JoshuaThadi/your-repo" target="_blank">
-  <img width="110px" src="https://img.shields.io/badge/PowerPoint-%23FFA500?style=flat-square&logo=microsoft-powerpoint&logoColor=FFFFFF&labelColor=%23FFA500&color=FFFFFF" alt="PowerPoint Badge" />
-</a>
-
+ <a href="https://github.com/JoshuaThadi/your-repo" target="_blank"><img width="110px" src="https://img.shields.io/badge/GIMP-%23FFFFFF?style=flat-square&logo=gimp&logoColor=000000&labelColor=%23FFFFFF&color=000000" alt="GIMP Badge" /></a>
+   <img src="https://skillicons.dev/icons?i=github,pinterest" />
 </ul>
-
 
 
 <div>
