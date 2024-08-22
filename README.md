@@ -26,6 +26,11 @@
 
 🌐 Web Design Layouts: Includes layouts created for web design projects.
 
+🎨 Software Used:<br/>
+<img width="125px" src="https://img.shields.io/badge/GIMP-Active-blue?style=flat-square&logo=gimp" alt="GIMP">
+<img width="140px" src="https://img.shields.io/badge/PowerPoint-Active-blue?style=flat-square&logo=microsoft-powerpoint" alt="PowerPoint">
+
+
 🌌 Check This Out:<br/>
 <a href="https://in.pinterest.com/TheBlackShepherd/pins/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
@@ -72,4 +77,26 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 <a href="https://in.pinterest.com/TheBlackShepherd/wall-e-desk/sci-fi/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 <br/>
 
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/wow.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<h2>🖥️ Tech Stack</h2>
+<ul>
+ <a href="https://github.com/JoshuaThadi/your-repo" target="_blank">
+  <img width="110px" src="https://img.shields.io/badge/GIMP-%23FFFFFF?style=flat-square&logo=gimp&logoColor=000000&labelColor=%23FFFFFF&color=000000" alt="GIMP Badge" />
+</a>
+
+  <a href="https://github.com/JoshuaThadi/your-repo" target="_blank">
+  <img width="110px" src="https://img.shields.io/badge/PowerPoint-%23FFA500?style=flat-square&logo=microsoft-powerpoint&logoColor=FFFFFF&labelColor=%23FFA500&color=FFFFFF" alt="PowerPoint Badge" />
+</a>
+
+</ul>
+
+
+
+<div>
+  <p>
+    
+  </p>
+</div>
+
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+
+
