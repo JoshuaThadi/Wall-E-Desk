@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Any/javtips.gif" alt="Fallout GIF" style="width:1000px; height:150px"/>
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Any/javtips.gif" alt="Fallout GIF" style="width:1000px; height:1000px"/>
 </a>
 
 <h1 align="center">
