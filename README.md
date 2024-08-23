@@ -82,8 +82,7 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 <h4>All About IT 
 Description:
 Explore the digital frontier with this IT image file, designed to bring technology to life. It features sleek interfaces, intricate networks, and the pulse of modern computing, making it an ideal choice for tech presentations, coding projects, or any content that celebrates the power and innovation of the IT world. Perfect for conveying the essence of our connected, data-driven future.</h4>
-
-
+<a href="https://in.pinterest.com/TheBlackShepherd/all-about-it/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 <div>
   <p>
