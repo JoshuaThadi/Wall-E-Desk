@@ -85,7 +85,7 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 <h2>🖥️ Tech Stack</h2>
 <ul>
  <a href="https://github.com/JoshuaThadi/your-repo" target="_blank"><img width="110px" src="https://img.shields.io/badge/GIMP-%23FFFFFF?style=flat-square&logo=gimp&logoColor=000000&labelColor=%23FFFFFF&color=000000" alt="GIMP Badge" /></a>
-   <img src="https://skillicons.dev/icons?i=github,pinterest" />
+   <img src="https://skillicons.dev/icons?i=github" />
 </ul>
 
 
