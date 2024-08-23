@@ -4,7 +4,7 @@
 </a>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Wall-E-Desk!+Repository+🗃️;+Wallpaper+Gifs+Web-Design-layouts+🔥+!;"  alt="Typing Animation" style="width:1670%"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Wall-E-Desk!+Repository+🗃️;+Wallpaper+Gifs+Web-Design-layouts+🔥+!;"  alt="Typing Animation" style="width:100%"/>
 
 
 
