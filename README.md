@@ -83,7 +83,7 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 Description:
 Explore the digital frontier with this IT image file, designed to bring technology to life. It features sleek interfaces and Evrything that you need to know!</h4>
 
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-23%20140021.png"><img width="1000px" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-23%20140021.png" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-23%20141632.png"><img width="1000px" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-23%20141632.png" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 <a href="https://in.pinterest.com/TheBlackShepherd/all-about-it/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 <div>
