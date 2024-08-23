@@ -64,9 +64,9 @@ Featuring picturesque vistas and expansive views, this landscape image file capt
 <h4> Pixel-Art
 Description:
 Dive into the charm of retro aesthetics with this pixel-art image file. Its distinct, blocky style pays homage to classic video games and digital art, ideal for gaming projects, nostalgic themes, or creative digital designs.</h4>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art" target="_blank"><img width="133px" src="https://img.shields.io/badge/Pixel_Art-%23FF5722?style=flat-square&logo=github&logoColor=ffffff" alt="Pixel Art Badge" /></a>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art-2" target="_blank"><img width="150px" src="https://img.shields.io/badge/Pixel_Art-%23FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Pixel Art 2 Badge" /></a>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/pixel-Art-3" target="_blank"><img width="150px" src="https://img.shields.io/badge/Pixel_Art-%232E7D32?style=flat-square&logo=github&logoColor=ffffff" alt="Pixel Art 3 Badge" /></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pixel_Art-%23FF5722?style=flat-square&logo=github&logoColor=ffffff" alt="Pixel Art Badge" /></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art-2" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pixel_Art-%23FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Pixel Art 2 Badge" /></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/pixel-Art-3" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pixel_Art-%232E7D32?style=flat-square&logo=github&logoColor=ffffff" alt="Pixel Art 3 Badge" /></a>
 <a href="https://in.pinterest.com/TheBlackShepherd/wall-e-desk/pixel-art/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 <h2> ★ Sci-Fi </h2>
