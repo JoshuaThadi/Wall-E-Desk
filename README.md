@@ -16,22 +16,22 @@
 
 <div align="left">
   
-🖼️ Showcase of Images: Includes a collection of images suitable for various uses.
+<h4>🖼️ Showcase of Images: Includes a collection of images suitable for various uses.</h4>
   
-🎞️ GIFs Collection: Features a selection of GIFs for diverse applications.
+<h4>🎞️ GIFs Collection: Features a selection of GIFs for diverse applications.</h4>
 
-🖥️ Desktop Wallpapers: Provides wallpapers specifically designed for desktop backgrounds.
+<h4>🖥️ Desktop Wallpapers: Provides wallpapers specifically designed for desktop backgrounds.</h4>
 
-📢 Banners: Contains designs for banners.
+<h4>📢 Banners: Contains designs for banners.</h4>
 
-🌐 Web Design Layouts: Includes layouts created for web design projects.
+<h4>🌐 Web Design Layouts: Includes layouts created for web design projects.</h4>
 
-🎨 Software Used:<br/>
+<h4>🎨 Software Used:</h4><br/>
 <img width="125px" src="https://img.shields.io/badge/GIMP-Active-blue?style=flat-square&logo=gimp" alt="GIMP">
 <img width="140px" src="https://img.shields.io/badge/PowerPoint-Active-blue?style=flat-square&logo=microsoft-powerpoint" alt="PowerPoint">
 
 
-🌌 Check This Out:<br/>
+<h4>🌌 Check This Out:</h4><br/>
 <a href="https://in.pinterest.com/TheBlackShepherd/pins/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 </div>
