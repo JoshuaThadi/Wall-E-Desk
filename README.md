@@ -84,11 +84,11 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 </div>
 
 <h2 align="center">🖥️ Tech Stack</h2>
-<ul align="center">
+<div align="center">
    <img src="https://skillicons.dev/icons?i=github" />
    <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" alt="PowerPoint" width="40" height="40"/></a>
    <a href="https://www.gimp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gimp.png" alt="GIMP" width="40" height="40"/></a>
-</ul>
+</div>
 
 
 <div>
