@@ -17,17 +17,10 @@
 <div align="left">
   
 <h4>🖼️ Showcase of Images: Includes a collection of images suitable for various uses.</h4>
-  
 <h4>🎞️ GIFs Collection: Features a selection of GIFs for diverse applications.</h4>
-
 <h4>🖥️ Desktop Wallpapers: Provides wallpapers specifically designed for desktop backgrounds.</h4>
-
 <h4>📢 Banners: Contains designs for banners.</h4>
-
 <h4>🌐 Web Design Layouts: Includes layouts created for web design projects.</h4>
-
-<h4>🌌 Check This Out:<br/></h4>
-<a href="https://in.pinterest.com/TheBlackShepherd/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 </div>
 <br/>
