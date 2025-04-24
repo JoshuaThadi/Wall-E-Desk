@@ -96,4 +96,9 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
+<div align="center">
+  
+---
 
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+</div>
