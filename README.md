@@ -44,8 +44,8 @@ This image file encompasses a broad range of content, ideal for versatile applic
 <h4> Landscape
 Description:
 Featuring picturesque vistas and expansive views, this landscape image file captures the beauty of natural terrains. Perfect for backgrounds, travel blogs, or any project that aims to evoke the majesty of the outdoors.  </h4>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-2" target="_blank"><img width="130px" src="https://img.shields.io/badge/Land_Scape-%232E7D32?style=flat-square&logo=github&logoColor=ffffff" alt="Badge" /></a>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-3" target="_blank"><img width="130px" src="https://img.shields.io/badge/Land_Scape-%23FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Badge" /></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-2" target="_blank"><img width="150px" src="https://img.shields.io/badge/Land_Scape-%232E7D32?style=flat-square&logo=github&logoColor=ffffff" alt="Badge" /></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-3" target="_blank"><img width="150px" src="https://img.shields.io/badge/Land_Scape-%23FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Badge" /></a>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/landscape"><img width="150px" src="https://img.shields.io/badge/Land_Scape-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
 <a href="https://in.pinterest.com/TheLoneCampus/wall-e-desk/landscape/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
