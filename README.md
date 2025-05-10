@@ -8,13 +8,18 @@
 
 
 
-<h3 align="center">📚 This Repository is to showcase the the images and the Gifs for desktop wallpaper to banners to web Designing Layouts!</h3>
+<!--<h3 align="center">📚 This Repository is to showcase the the images and the Gifs for desktop wallpaper to banners to web Designing Layouts!</h3>
 <br/>
 
-<h2>💫 About This Repository</h2>
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/cama-3d_transparent_fixed.gif">
+<h2>💫 About This Repository</h2>-->
 
-<div align="left">
+
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/cama-3d_transparent_fixed.gif">
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-22%20203000.png">
+  <img align="left" width="600" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-22%20203000.png" alt="Fallout GIF"/>
+</a>
+
+<!--<div align="left">
   
 <h4>🖼️ Showcase of Images: Includes a collection of images suitable for various uses.</h4>
 <h4>🎞️ GIFs Collection: Features a selection of GIFs for diverse applications.</h4>
@@ -23,12 +28,9 @@
 <h4>🌐 Web Design Layouts: Includes layouts created for web design projects.</h4>
 
 </div>
-<br/>
+<br/>-->
 
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-22%20203000.png">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-22%20203000.png" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
-
+<div align="left">
 <h2> ⭐ Any Thing All </h2>
 <h4> Any
 Description:
@@ -67,7 +69,6 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 <br/>
 
 <h2>✳️ All About IT</h2>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-23%20142004.png"><img width="1000px" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-23%20142004.png" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 <h4>All About IT 
 Description:
 Explore the digital frontier with this IT image file, designed to bring technology to life. It features sleek interfaces and Everything that you need to know!</h4>
@@ -92,6 +93,7 @@ Explore the digital frontier with this IT image file, designed to bring technolo
   <p>
     
   </p>
+</div>
 </div>
 
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
