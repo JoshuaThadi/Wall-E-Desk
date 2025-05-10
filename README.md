@@ -14,10 +14,10 @@
 <h2>💫 About This Repository</h2>-->
 
 
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/cama-3d_transparent_fixed.gif">
+<!--<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/cama-3d_transparent_fixed.gif">
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-22%20203000.png">
   <img align="left" width="600" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Screenshot%202024-08-22%20203000.png" alt="Fallout GIF"/>
-</a>
+</a>-->
 
 <!--<div align="left">
   
