@@ -30,7 +30,6 @@
 </div>
 <br/>-->
 
-<div align="left">
 <h2> ⭐ Any Thing All </h2>
 <h4> Any
 Description:
@@ -94,7 +93,7 @@ Explore the digital frontier with this IT image file, designed to bring technolo
     
   </p>
 </div>
-</div>
+
 
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
