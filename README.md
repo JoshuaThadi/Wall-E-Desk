@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Any/javtips.gif">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Any/javtips.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/the%20git%20pfp.gif?raw=true" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 
