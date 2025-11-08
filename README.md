@@ -39,6 +39,13 @@ This image file encompasses a broad range of content, ideal for versatile applic
 
 
 
+<h2> ⭐ Mobile wallpapers </h2>
+<h4> Mobile-Arts
+Description:
+This image file features clean and dynamic visuals designed for modern devices. Ideal for users who prefer abstract, geometric, or futuristic backgrounds that add a professional touch to their screens. </h4>
+<a href="https://in.pinterest.com/TheLoneCampus/nature-wallpaper/"><img width="220px" src="https://img.shields.io/badge/Nature_Wallpapers-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://in.pinterest.com/TheLoneCampus/wall-e-desk/glitch-wallpaper-mobile-wallpaper/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+
 
 <h2> 🌟 LandScape </h2>
 <h4> Landscape
