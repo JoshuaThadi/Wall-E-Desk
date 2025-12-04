@@ -120,5 +120,5 @@ Explore the digital frontier with this IT image file, designed to bring technolo
   
 ---
 
-⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi.</strong>
 </div>
