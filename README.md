@@ -83,14 +83,14 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 
 <h2> ⭐ Other Suggested Repository For Asthetic Wallpapers </h2>
 
-<a href="https://github.com/Narmis-E/onedark-wallpapers"><img width="15%" src="https://img.shields.io/badge/OneDark-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/connorslade/ArchPapers"><img width="17%" src="https://img.shields.io/badge/ArchPapers-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/dharmx/walls"><img width="11%" src="https://img.shields.io/badge/Walls-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/AngelJumbo/gruvbox-wallpapers"><img width="14%" src="https://img.shields.io/badge/Gruvbox-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/D3Ext/aesthetic-wallpapers"><img width="15%" src="https://img.shields.io/badge/Asthetics-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/search?q=wallpapers&type=repositories"><img width="19%" src="https://img.shields.io/badge/Repositories-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/JaKooLit/Wallpaper-Bank"><img width="22%" src="https://img.shields.io/badge/Wallpaper-Bank-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/mylinuxforwork/wallpaper"><img width="15%" src="https://img.shields.io/badge/my-linux-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://github.com/Narmis-E/onedark-wallpapers"><img width="130px" src="https://img.shields.io/badge/OneDark-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://github.com/connorslade/ArchPapers"><img width="145px" src="https://img.shields.io/badge/ArchPapers-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://github.com/dharmx/walls"><img width="95px" src="https://img.shields.io/badge/Walls-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://github.com/AngelJumbo/gruvbox-wallpapers"><img width="125px" src="https://img.shields.io/badge/Gruvbox-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://github.com/D3Ext/aesthetic-wallpapers"><img width="127px" src="https://img.shields.io/badge/Asthetics-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://github.com/search?q=wallpapers&type=repositories"><img width="145px" src="https://img.shields.io/badge/Repositories-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://github.com/JaKooLit/Wallpaper-Bank"><img width="190px" src="https://img.shields.io/badge/Wallpaper-Bank-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://github.com/mylinuxforwork/wallpaper"><img width="130px" src="https://img.shields.io/badge/my-linux-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
 
 
 <div>
