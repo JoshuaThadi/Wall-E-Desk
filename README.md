@@ -35,7 +35,7 @@
 Description:
 This image file encompasses a broad range of content, ideal for versatile applications. Whether you're looking for abstract designs, nature scenes, or artistic compositions, this file serves as a flexible resource for various uses. </h4>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Any"><img width="150px" src="https://img.shields.io/badge/Any_Images-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://in.pinterest.com/TheLoneCampus/wall-e-desk/any/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/any/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 
 
@@ -43,8 +43,8 @@ This image file encompasses a broad range of content, ideal for versatile applic
 <h4> Mobile-Arts
 Description:
 This image file features clean and dynamic visuals designed for modern devices. Ideal for users who prefer abstract, geometric, or futuristic backgrounds that add a professional touch to their screens. </h4>
-<a href="https://in.pinterest.com/TheLoneCampus/nature-wallpaper/"><img width="220px" src="https://img.shields.io/badge/Nature_Wallpapers-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://in.pinterest.com/TheLoneCampus/wall-e-desk/glitch-wallpaper-mobile-wallpaper/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+<a href="https://in.pinterest.com/Bezehel/nature-wallpaper/"><img width="220px" src="https://img.shields.io/badge/Nature_Wallpapers-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/glitch-wallpaper-mobile-wallpaper/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 
 <h2> 🌟 LandScape </h2>
@@ -54,7 +54,7 @@ Featuring picturesque vistas and expansive views, this landscape image file capt
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-2" target="_blank"><img width="150px" src="https://img.shields.io/badge/Land_Scape-%232E7D32?style=flat-square&logo=github&logoColor=ffffff" alt="Badge" /></a>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-3" target="_blank"><img width="150px" src="https://img.shields.io/badge/Land_Scape-%23FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Badge" /></a>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/landscape"><img width="150px" src="https://img.shields.io/badge/Land_Scape-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://in.pinterest.com/TheLoneCampus/wall-e-desk/landscape/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/landscape/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 
 <h2> ✨ Pixel-Art </h2>
@@ -64,14 +64,14 @@ Dive into the charm of retro aesthetics with this pixel-art image file. Its dist
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pixel_Art-%23FF5722?style=flat-square&logo=github&logoColor=ffffff" alt="Pixel Art Badge" /></a>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art-2" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pixel_Art-%23FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Pixel Art 2 Badge" /></a>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/pixel-Art-3" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pixel_Art-%232E7D32?style=flat-square&logo=github&logoColor=ffffff" alt="Pixel Art 3 Badge" /></a>
-<a href="https://in.pinterest.com/TheLoneCampus/wall-e-desk/pixel-art/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/pixel-art/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 <h2> ★ Sci-Fi </h2>
 <h4> Sci-Fi
 Description:
 Immerse yourself in futuristic worlds with this sci-fi image file. It showcases imaginative, otherworldly landscapes, advanced technology, and space-age elements, making it a great choice for sci-fi projects, concept art, or tech-related content.</h4>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Sci-Fi" target="_blank"><img width="110px" src="https://img.shields.io/badge/Sci_Fi-%234FC3F7?style=flat-square&logo=github&logoColor=000000&labelColor=%234FC3F7&color=000000" alt="Sci-Fi Badge" /></a>
-<a href="https://in.pinterest.com/TheLoneCampus/wall-e-desk/sci-fi/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/sci-fi/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 <br/>
 
 <h2>✳️ All About IT</h2>
@@ -79,7 +79,7 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 Description:
 Explore the digital frontier with this IT image file, designed to bring technology to life. It features sleek interfaces and Everything that you need to know!</h4>
 
-<a href="https://in.pinterest.com/TheLoneCampus/all-about-it/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+<a href="https://in.pinterest.com/Bezehel/all-about-it/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 <h2> ⭐ Other Suggested Repository For Asthetic Wallpapers </h2>
 
