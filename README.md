@@ -105,14 +105,20 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 
 <h2> ⭐ Other Suggested Repository For Asthetic Wallpapers </h2>
 
-<a href="https://github.com/Narmis-E/onedark-wallpapers"><img width="130px" src="https://img.shields.io/badge/OneDark-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/connorslade/ArchPapers"><img width="145px" src="https://img.shields.io/badge/ArchPapers-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/dharmx/walls"><img width="95px" src="https://img.shields.io/badge/Walls-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/AngelJumbo/gruvbox-wallpapers"><img width="125px" src="https://img.shields.io/badge/Gruvbox-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/D3Ext/aesthetic-wallpapers"><img width="127px" src="https://img.shields.io/badge/Asthetics-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/search?q=wallpapers&type=repositories"><img width="145px" src="https://img.shields.io/badge/Repositories-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/JaKooLit/Wallpaper-Bank"><img width="190px" src="https://img.shields.io/badge/Wallpaper-Bank-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/mylinuxforwork/wallpaper"><img width="130px" src="https://img.shields.io/badge/my-linux-%23373838?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://www.freepik.com/free-photos-vectors/anime-landscape-wallpaper#uuid=3c8d39bc-3122-4259-880d-74a5a1f8b5eb">Freepik Anime Landscape Wallpapers</a><br>
+<a href="https://www.freepik.com/free-photos-vectors/desktop-wallpaper-anime#uuid=6e0a3477-450f-41f3-8357-15e52ca25c21">Freepik Anime Desktop Wallpapers</a><br>
+<a href="https://wallpapers-clan.com/desktop-wallpapers/category/aesthetic/">Aesthetic Wallpapers – Wallpapers Clan</a><br>
+<a href="https://github.com/mylinuxforwork/wallpaper">MyLinuxForWork Wallpapers</a><br>
+<a href="https://github.com/michaelScopic/Wallpapers">MichaelScopic Wallpapers</a><br>
+<a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/">Anime Wallpapers – Wallpapers Clan</a>
+<a href="https://github.com/AngelJumbo/gruvbox-wallpapers">Gruvbox Wallpapers</a><br>
+<a href="https://github.com/D3Ext/aesthetic-wallpapers">Aesthetic Wallpapers</a><br>
+<a href="https://github.com/search?q=wallpapers&type=repositories">GitHub Wallpaper Repositories</a><br>
+<a href="https://github.com/JaKooLit/Wallpaper-Bank">Wallpaper Bank</a><br>
+<a href="https://github.com/Narmis-E/onedark-wallpapers">OneDark Wallpapers</a><br>
+<a href="https://github.com/connorslade/ArchPapers">ArchPapers</a><br>
+<a href="https://github.com/dharmx/walls">Walls</a><br>
+
 
 
 <div>
