@@ -105,19 +105,19 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 
 <h2> ⭐ Other Suggested Repository For Asthetic Wallpapers </h2>
 
-<a href="https://www.freepik.com/free-photos-vectors/anime-landscape-wallpaper#uuid=3c8d39bc-3122-4259-880d-74a5a1f8b5eb">Freepik Anime Landscape Wallpapers</a><br>
-<a href="https://www.freepik.com/free-photos-vectors/desktop-wallpaper-anime#uuid=6e0a3477-450f-41f3-8357-15e52ca25c21">Freepik Anime Desktop Wallpapers</a><br>
-<a href="https://wallpapers-clan.com/desktop-wallpapers/category/aesthetic/">Aesthetic Wallpapers – Wallpapers Clan</a><br>
-<a href="https://github.com/mylinuxforwork/wallpaper">MyLinuxForWork Wallpapers</a><br>
-<a href="https://github.com/michaelScopic/Wallpapers">MichaelScopic Wallpapers</a><br>
-<a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/">Anime Wallpapers – Wallpapers Clan</a>
-<a href="https://github.com/AngelJumbo/gruvbox-wallpapers">Gruvbox Wallpapers</a><br>
-<a href="https://github.com/D3Ext/aesthetic-wallpapers">Aesthetic Wallpapers</a><br>
-<a href="https://github.com/search?q=wallpapers&type=repositories">GitHub Wallpaper Repositories</a><br>
-<a href="https://github.com/JaKooLit/Wallpaper-Bank">Wallpaper Bank</a><br>
-<a href="https://github.com/Narmis-E/onedark-wallpapers">OneDark Wallpapers</a><br>
-<a href="https://github.com/connorslade/ArchPapers">ArchPapers</a><br>
-<a href="https://github.com/dharmx/walls">Walls</a><br>
+<a href="https://www.freepik.com/free-photos-vectors/anime-landscape-wallpaper#uuid=3c8d39bc-3122-4259-880d-74a5a1f8b5eb">Freepik Anime Landscape Wallpapers</a> |
+<a href="https://www.freepik.com/free-photos-vectors/desktop-wallpaper-anime#uuid=6e0a3477-450f-41f3-8357-15e52ca25c21">Freepik Anime Desktop Wallpapers</a> |
+<a href="https://wallpapers-clan.com/desktop-wallpapers/category/aesthetic/">Aesthetic Wallpapers – Wallpapers Clan</a> |
+<a href="https://github.com/mylinuxforwork/wallpaper">MyLinuxForWork Wallpapers</a> |
+<a href="https://github.com/michaelScopic/Wallpapers">MichaelScopic Wallpapers</a> |
+<a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/">Anime Wallpapers – Wallpapers Clan</a> |
+<a href="https://github.com/AngelJumbo/gruvbox-wallpapers">Gruvbox Wallpapers</a> |
+<a href="https://github.com/D3Ext/aesthetic-wallpapers">Aesthetic Wallpapers</a> |
+<a href="https://github.com/search?q=wallpapers&type=repositories">GitHub Wallpaper Repositories</a> |
+<a href="https://github.com/JaKooLit/Wallpaper-Bank">Wallpaper Bank</a> |
+<a href="https://github.com/Narmis-E/onedark-wallpapers">OneDark Wallpapers</a> |
+<a href="https://github.com/connorslade/ArchPapers">ArchPapers</a> |
+<a href="https://github.com/dharmx/walls">Walls</a>
 
 
 
