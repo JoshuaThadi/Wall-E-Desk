@@ -31,6 +31,9 @@
 <br/>-->
 
 <h2> ⭐ Any Thing All </h2>
+
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/one-piece-zoro-lightning-epic-desktop-wallpaper-4k.jpg">
+
 <h4> Any
 Description:
 This image file encompasses a broad range of content, ideal for versatile applications. Whether you're looking for abstract designs, nature scenes, or artistic compositions, this file serves as a flexible resource for various uses. </h4>
@@ -40,6 +43,13 @@ This image file encompasses a broad range of content, ideal for versatile applic
 
 
 <h2> ⭐ Mobile wallpapers </h2>
+
+<div align="center">
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/dio.jpg" width="50%" />
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/ani.jpg" width="40%" />
+</div>
+
+
 <h4> Mobile-Arts
 Description:
 This image file features clean and dynamic visuals designed for modern devices. Ideal for users who prefer abstract, geometric, or futuristic backgrounds that add a professional touch to their screens. </h4>
@@ -48,6 +58,9 @@ This image file features clean and dynamic visuals designed for modern devices. 
 
 
 <h2> 🌟 LandScape </h2>
+
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Land-Scape-2/pexels-stephan-seeber-1261728.jpg">
+
 <h4> Landscape
 Description:
 Featuring picturesque vistas and expansive views, this landscape image file captures the beauty of natural terrains. Perfect for backgrounds, travel blogs, or any project that aims to evoke the majesty of the outdoors.  </h4>
@@ -58,6 +71,9 @@ Featuring picturesque vistas and expansive views, this landscape image file capt
 
 
 <h2> ✨ Pixel-Art </h2>
+
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/home-sweet-home.gif">
+
 <h4> Pixel-Art
 Description:
 Dive into the charm of retro aesthetics with this pixel-art image file. Its distinct, blocky style pays homage to classic video games and digital art, ideal for gaming projects, nostalgic themes, or creative digital designs.</h4>
@@ -67,6 +83,9 @@ Dive into the charm of retro aesthetics with this pixel-art image file. Its dist
 <a href="https://in.pinterest.com/Bezehel/wall-e-desk/pixel-art/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 <h2> ★ Sci-Fi </h2>
+
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Sci-Fi/wallhaven-qzlm2l.jpg">
+
 <h4> Sci-Fi
 Description:
 Immerse yourself in futuristic worlds with this sci-fi image file. It showcases imaginative, otherworldly landscapes, advanced technology, and space-age elements, making it a great choice for sci-fi projects, concept art, or tech-related content.</h4>
@@ -75,6 +94,9 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 <br/>
 
 <h2>✳️ All About IT</h2>
+
+<img width="100%" height="50%" src="https://i.pinimg.com/1200x/76/91/38/769138444b49199c69a85697d5a98144.jpg">
+
 <h4>All About IT 
 Description:
 Explore the digital frontier with this IT image file, designed to bring technology to life. It features sleek interfaces and Everything that you need to know!</h4>
