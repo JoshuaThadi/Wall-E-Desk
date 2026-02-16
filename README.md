@@ -45,8 +45,8 @@ This image file encompasses a broad range of content, ideal for versatile applic
 <h2> ⭐ Mobile wallpapers </h2>
 
 <div align="center">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/dio.jpg" width="50%" />
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/ani.jpg" width="40%" />
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/mcqueen.jpg" width="48%" />
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/ani.jpg" width="44.3%" />
 </div>
 
 
