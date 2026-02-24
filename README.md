@@ -32,7 +32,7 @@
 
 <h2> ⭐ Any Thing All </h2>
 
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/one-piece-zoro-lightning-epic-desktop-wallpaper-4k.jpg">
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/suzume1.png">
 
 <h4> Any
 Description:
