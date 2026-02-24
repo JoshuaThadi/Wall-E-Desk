@@ -32,7 +32,7 @@
 
 <h2> ⭐ Any Thing All </h2>
 
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/suzume1.png">
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/wallpaperflare.com_wallpaper(19).jpg">
 
 <h4> Any
 Description:
