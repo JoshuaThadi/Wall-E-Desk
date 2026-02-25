@@ -103,25 +103,16 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 
 <a href="https://in.pinterest.com/Bezehel/all-about-it/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
-<h2> ⭐ Other Suggested Repository For Asthetic Wallpapers </h2>
+<h2> ⭐ Other Suggested Repository and Websites For Asthetic Wallpapers </h2>
 
-<a href="https://www.freepik.com/free-photos-vectors/anime-landscape-wallpaper#uuid=3c8d39bc-3122-4259-880d-74a5a1f8b5eb" target="_blank">
-  <img src="https://img.shields.io/badge/Freepik-Anime%20Landscape-4D5054?style=for-the-badge&logo=freepik&logoColor=white" alt="Freepik Anime Landscape"></a>
-
-<a href="https://www.freepik.com/free-photos-vectors/desktop-wallpaper-anime#uuid=6e0a3477-450f-41f3-8357-15e52ca25c21" target="_blank">
-  <img src="https://img.shields.io/badge/Freepik-Anime%20Desktop-4D5054?style=for-the-badge&logo=freepik&logoColor=white" alt="Freepik Anime Desktop"></a>
-
-<a href="https://wallpapers-clan.com/desktop-wallpapers/category/aesthetic/" target="_blank">
-  <img src="https://img.shields.io/badge/Wallpapers%20Clan-Aesthetic-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
+<a href="https://github.com/SleepyCatHey/CozyPixels" target="_blank">
+  <img src="https://img.shields.io/badge/SleepCatHey-CozyPixels-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
 <a href="https://github.com/mylinuxforwork/wallpaper" target="_blank">
   <img src="https://img.shields.io/badge/MyLinuxForWork-Wallpapers-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="MyLinuxForWork Wallpapers"></a>
 
 <a href="https://github.com/michaelScopic/Wallpapers" target="_blank">
   <img src="https://img.shields.io/badge/MichaelScopic-Wallpapers-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="MichaelScopic Wallpapers"></a>
-
-<a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/" target="_blank">
-  <img src="https://img.shields.io/badge/Wallpapers%20Clan-Anime-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
 
 <a href="https://github.com/AngelJumbo/gruvbox-wallpapers" target="_blank">
   <img src="https://img.shields.io/badge/Gruvbox-Wallpapers-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Gruvbox Wallpapers"></a>
@@ -143,6 +134,27 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 
 <a href="https://github.com/dharmx/walls" target="_blank">
   <img src="https://img.shields.io/badge/Walls-Collection-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+
+<a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/" target="_blank">
+  <img src="https://img.shields.io/badge/Wallpapers%20Clan-Anime-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
+
+<a href="https://pixelartvillage.com/ " target="_blank">
+  <img src="https://img.shields.io/badge/pixelart-village-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+
+<a href="https://giphy.com/explore/pixel-art" target="_blank">
+  <img src="https://img.shields.io/badge/giphy-pixelart-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+
+<a href="https://wallpapercat.com/" target="_blank">
+  <img src="https://img.shields.io/badge/wallpapercat-com-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+
+<a href="https://www.freepik.com/free-photos-vectors/anime-landscape-wallpaper#uuid=3c8d39bc-3122-4259-880d-74a5a1f8b5eb" target="_blank">
+  <img src="https://img.shields.io/badge/Freepik-Anime%20Landscape-4D5054?style=for-the-badge&logo=freepik&logoColor=white" alt="Freepik Anime Landscape"></a>
+
+<a href="https://www.freepik.com/free-photos-vectors/desktop-wallpaper-anime#uuid=6e0a3477-450f-41f3-8357-15e52ca25c21" target="_blank">
+  <img src="https://img.shields.io/badge/Freepik-Anime%20Desktop-4D5054?style=for-the-badge&logo=freepik&logoColor=white" alt="Freepik Anime Desktop"></a>
+
+<a href="https://wallpapers-clan.com/desktop-wallpapers/category/aesthetic/" target="_blank">
+  <img src="https://img.shields.io/badge/Wallpapers%20Clan-Aesthetic-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
 
 
 
