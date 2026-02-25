@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Wall-E-Desk!+Repository+🗃️;+Wallpaper+Gifs+Web-Design-layouts+🔥+!;"  alt="Typing Animation" style="width:100%"/>
 
-
+<h3 align="left"><a href="">You can fork the repository or download the ZIP file to access and apply the wallpapers locally. The wallpapers are organized into separate folders based on their respective themes, which may appear mixed or unordered when viewed directly on GitHub. Downloading the project ensures you can properly browse the categorized folders and use the wallpapers as intended.</a></h3>
 
 <!--<h3 align="center">📚 This Repository is to showcase the the images and the Gifs for desktop wallpaper to banners to web Designing Layouts!</h3>
 <br/>
