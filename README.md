@@ -38,6 +38,7 @@
 Description:
 This image file encompasses a broad range of content, ideal for versatile applications. Whether you're looking for abstract designs, nature scenes, or artistic compositions, this file serves as a flexible resource for various uses. </h4>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Any"><img width="150px" src="https://img.shields.io/badge/Any_Images-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Anime"><img width="150px" src="https://img.shields.io/badge/AnimeImage-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
 <a href="https://in.pinterest.com/Bezehel/wall-e-desk/any/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
 
 
