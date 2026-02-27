@@ -157,6 +157,8 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 <a href="https://wallpapers-clan.com/desktop-wallpapers/category/aesthetic/" target="_blank">
   <img src="https://img.shields.io/badge/Wallpapers%20Clan-Aesthetic-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
 
+<a href="https://ign.schroedinger-hat.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Schroedinger-hat-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
 
 
 
