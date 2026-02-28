@@ -109,6 +109,9 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 <a href="https://github.com/SleepyCatHey/CozyPixels" target="_blank">
   <img src="https://img.shields.io/badge/SleepCatHey-CozyPixels-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
+<a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection" target="_blank">
+  <img src="https://img.shields.io/badge/minimalistic-wallpaper-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+
 <a href="https://github.com/mylinuxforwork/wallpaper" target="_blank">
   <img src="https://img.shields.io/badge/MyLinuxForWork-Wallpapers-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="MyLinuxForWork Wallpapers"></a>
 
