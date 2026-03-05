@@ -61,7 +61,8 @@ The wallpapers include a variety of styles such as cinematic landscapes, aesthet
   <img src="https://img.shields.io/badge/Pinterest-Mobile-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 <a href="https://in.pinterest.com/Bezehel/wall-e-desk/desktop-wallpaper/" target="_blank">
   <img src="https://img.shields.io/badge/Pinterest-Desktop-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
-
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/any/" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-Anything-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 
 
 
