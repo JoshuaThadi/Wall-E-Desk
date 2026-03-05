@@ -69,6 +69,11 @@
 <a href="https://github.com/arcticicestudio/nord" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Nord%20Repository-2E3440?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 
+
+
+
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Live%20Wallpapers/pokemon.gif">
+
 <h2> 🌟 Live Wallpapers </h2>
 
 <h4> Live Wallpapers
