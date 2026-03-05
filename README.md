@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Any/javtips.gif">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/the%20git%20pfp.gif?raw=true" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/spring%20evening.gif" style="width:auto; height:auto"/>
 </a>
 
 
@@ -30,69 +30,93 @@
 </div>
 <br/>-->
 
-<h2> ⭐ Any Thing All </h2>
 
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/wallpaperflare.com_wallpaper(19).jpg">
+<h2> 🌟 Live Wallpapers </h2>
 
-<h4> Any
+<h4> Live Wallpapers
 Description:
-This image file encompasses a broad range of content, ideal for versatile applications. Whether you're looking for abstract designs, nature scenes, or artistic compositions, this file serves as a flexible resource for various uses. </h4>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Any"><img width="150px" src="https://img.shields.io/badge/Any_Images-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Anime"><img width="175px" src="https://img.shields.io/badge/Anime_Images-%23F26161?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://in.pinterest.com/Bezehel/wall-e-desk/any/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+Bring your desktop to life with this collection of dynamic live wallpapers. These wallpapers feature moving visuals, animated effects, and immersive scenes including nature, futuristic environments, and aesthetic animations. Perfect for users who want a more interactive and visually engaging desktop experience.</h4>
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Live%20Wallpapers" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Wallpapers-AA6EDB?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://in.pinterest.com/ideas/free-live-wallpapers-for-pc/915857801017/" target="_blank">
+  <img src="https://img.shields.io/badge/pinterest-livewallpapers-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 
 
 
-<h2> ⭐ Mobile wallpapers </h2>
+<h2> ⭐ Anime wallpapers </h2>
 
-<div align="center">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/mcqueen.jpg" width="48%" />
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/ani.jpg" width="44.3%" />
-</div>
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/sasuke%26Itachi.jpg">
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/demon%20slayer.png">
 
-
-<h4> Mobile-Arts
+<h4> Anime Wallpapers
 Description:
-This image file features clean and dynamic visuals designed for modern devices. Ideal for users who prefer abstract, geometric, or futuristic backgrounds that add a professional touch to their screens. </h4>
-<a href="https://in.pinterest.com/Bezehel/nature-wallpaper/"><img width="220px" src="https://img.shields.io/badge/Nature_Wallpapers-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://in.pinterest.com/Bezehel/wall-e-desk/glitch-wallpaper-mobile-wallpaper/" target="_blank"><img width="125px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+The wallpapers include a variety of styles such as cinematic landscapes, aesthetic anime environments, and detailed character illustrations. These images are ideal for desktop customization, creative inspiration, and personal use, offering a visually immersive anime experience for fans and enthusiasts.</h4>
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Anime" target="_blank">
+  <img src="https://img.shields.io/badge/Anime-Wallpapers-F26161?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/mobile-wallpaper/" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-Mobile-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/desktop-wallpaper/" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-Desktop-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+
+
+
 
 
 <h2> 🌟 LandScape </h2>
 
-<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Land-Scape-2/pexels-stephan-seeber-1261728.jpg">
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/landscape-anime/tokyo.png">
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/landscape-anime/christmas.jpg">
 
 <h4> Landscape
 Description:
 Featuring picturesque vistas and expansive views, this landscape image file captures the beauty of natural terrains. Perfect for backgrounds, travel blogs, or any project that aims to evoke the majesty of the outdoors.  </h4>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-2" target="_blank"><img width="150px" src="https://img.shields.io/badge/Land_Scape-%232E7D32?style=flat-square&logo=github&logoColor=ffffff" alt="Badge" /></a>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Land-Scape-3" target="_blank"><img width="150px" src="https://img.shields.io/badge/Land_Scape-%23FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Badge" /></a>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/landscape"><img width="150px" src="https://img.shields.io/badge/Land_Scape-%23FFC107?style=flat-square&logo=github" alt="Any Images Badge" /></a>
-<a href="https://in.pinterest.com/Bezehel/wall-e-desk/landscape/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/landscape-anime" target="_blank">
+  <img src="https://img.shields.io/badge/anime-landscape-57C785?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/landscape-nature" target="_blank">
+  <img src="https://img.shields.io/badge/nature-landscape-77C757?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/landscape/" target="_blank">
+  <img src="https://img.shields.io/badge/pinterest-landscape-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 
 
 <h2> ✨ Pixel-Art </h2>
 
-<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/hsh1.gif">
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/good%20day.gif">
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/backyard.webp">
 
 <h4> Pixel-Art
 Description:
 Dive into the charm of retro aesthetics with this pixel-art image file. Its distinct, blocky style pays homage to classic video games and digital art, ideal for gaming projects, nostalgic themes, or creative digital designs.</h4>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pixel_Art-%23FF5722?style=flat-square&logo=github&logoColor=ffffff" alt="Pixel Art Badge" /></a>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art-2" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pixel_Art-%23FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Pixel Art 2 Badge" /></a>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/pixel-Art-3" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pixel_Art-%232E7D32?style=flat-square&logo=github&logoColor=ffffff" alt="Pixel Art 3 Badge" /></a>
-<a href="https://in.pinterest.com/Bezehel/wall-e-desk/pixel-art/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art" target="_blank">
+  <img src="https://img.shields.io/badge/Gif-PixelArt-67B2F0?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/pixel-art/" target="_blank">
+  <img src="https://img.shields.io/badge/pinterest-pixelart-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+
+
 
 <h2> ★ Sci-Fi </h2>
 
-<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Sci-Fi/wallhaven-qzlm2l.jpg">
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Sci-Fi/astronaut-nord.png">
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Sci-Fi/jdm%20car.jpg">
 
 <h4> Sci-Fi
 Description:
 Immerse yourself in futuristic worlds with this sci-fi image file. It showcases imaginative, otherworldly landscapes, advanced technology, and space-age elements, making it a great choice for sci-fi projects, concept art, or tech-related content.</h4>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Sci-Fi" target="_blank"><img width="110px" src="https://img.shields.io/badge/Sci_Fi-%234FC3F7?style=flat-square&logo=github&logoColor=000000&labelColor=%234FC3F7&color=000000" alt="Sci-Fi Badge" /></a>
-<a href="https://in.pinterest.com/Bezehel/wall-e-desk/sci-fi/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
-<br/>
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Pixel-Art" target="_blank">
+  <img src="https://img.shields.io/badge/Gif-PixelArt-3B4045?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://in.pinterest.com/Bezehel/wall-e-desk/pixel-art/" target="_blank">
+  <img src="https://img.shields.io/badge/pinterest-pixelart-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+
+
 
 <h2>✳️ All About IT</h2>
 
@@ -103,6 +127,10 @@ Description:
 Explore the digital frontier with this IT image file, designed to bring technology to life. It features sleek interfaces and Everything that you need to know!</h4>
 
 <a href="https://in.pinterest.com/Bezehel/all-about-it/" target="_blank"><img width="130px" src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge" /></a>
+
+
+
+
 
 <h2> ⭐ Other Suggested Repository and Websites For Asthetic Wallpapers </h2>
 
