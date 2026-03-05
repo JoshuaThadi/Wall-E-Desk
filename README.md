@@ -68,7 +68,8 @@
 <a href="https://pypi.org/project/image-go-nord/" target="_blank"> <img src="https://img.shields.io/badge/ImageGoNord-Python%20Library-2E3440?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="https://github.com/arcticicestudio/nord" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Nord%20Repository-2E3440?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-
+<br>
+<br>
 
 
 
