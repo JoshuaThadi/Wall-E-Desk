@@ -30,6 +30,17 @@
 </div>
 <br/>-->
 
+<h2>Image Upscaling</h2>
+<p>Tools and software for image upscaling to enhance low-resolution images and convert them into higher resolutions such as HD, 4K, or even 8K. This process results in sharper images, reduced noise, and improved clarity, making it ideal for wallpapers, artwork, photography, and digital content enhancement.</p>
+
+<a href="https://www.upscayl.org/" target="_blank"> <img src="https://img.shields.io/badge/Upscayl-AI%20Upscaler-4D5054?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="https://www.topazlabs.com/gigapixel-ai" target="_blank"> <img src="https://img.shields.io/badge/Topaz-Gigapixel%20AI-1E90FF?style=for-the-badge&logo=adobe&logoColor=white" /></a> 
+<a href="https://www.aiease.ai/image-upscaler/" target="_blank"> <img src="https://img.shields.io/badge/AIEase-Image%20Upscaler-00C853?style=for-the-badge&logo=artstation&logoColor=white" /></a> 
+<a href="https://www.dzine.ai/tools/ai-image-upscaler/" target="_blank"> <img src="https://img.shields.io/badge/Dzine-AI%20Upscaler-7B68EE?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
+<a href="https://www.pixozone.com/ai-image-upscaler" target="_blank"> <img src="https://img.shields.io/badge/Pixozone-AI%20Upscaler-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
+<a href="https://www.somake.ai/tools/image-upscaler" target="_blank"> <img src="https://img.shields.io/badge/Somake-AI%20Upscaler-20B2AA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
+<a href="https://imagefree.org/image-upscale" target="_blank"> <img src="https://img.shields.io/badge/ImageFree-AI%20Upscaler-E91E63?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
 
 <h2> 🌟 Live Wallpapers </h2>
 
