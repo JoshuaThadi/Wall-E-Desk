@@ -206,6 +206,8 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 <a href="https://github.com/dharmx/walls" target="_blank">
   <img src="https://img.shields.io/badge/Walls-Collection-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
+---
+
 <a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/" target="_blank">
   <img src="https://img.shields.io/badge/Wallpapers%20Clan-Anime-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
 
@@ -230,8 +232,54 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 <a href="https://wallpapers-clan.com/desktop-wallpapers/category/aesthetic/" target="_blank">
   <img src="https://img.shields.io/badge/Wallpapers%20Clan-Aesthetic-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
 
+---
 
+<a href="https://www.animecanvas.art/" target="_blank">
+  <img src="https://img.shields.io/badge/AnimeCanvas-Wallpapers-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
+<a href="https://www.wallpaperalchemy.com/anime/wallpapers" target="_blank">
+  <img src="https://img.shields.io/badge/WallpaperAlchemy-Anime-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://wallpaperbat.com/anime-wallpapers" target="_blank">
+  <img src="https://img.shields.io/badge/WallpaperBat-Anime-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://danbooru.donmai.us/" target="_blank">
+  <img src="https://img.shields.io/badge/Danbooru-AnimeDatabase-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://wallhaven.cc/" target="_blank">
+  <img src="https://img.shields.io/badge/Wallhaven-HDWallpapers-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://4kwallpapers.com/" target="_blank">
+  <img src="https://img.shields.io/badge/4KWallpapers-UHD-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://wallpapercg.com/linux-wallpapers" target="_blank">
+  <img src="https://img.shields.io/badge/WallpaperCG-LinuxWallpapers-4C566A?style=for-the-badge&logo=linux&logoColor=white" /></a>
+
+<a href="https://backiee.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Backiee-4KGallery-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://github.com/mylinuxforwork/wallpaper" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-WallpaperRepo-4C566A?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
+<a href="https://moewalls.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MoeWalls-LiveWallpapers-3A3A3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://mylivewallpapers.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MyLiveWallpapers-FreeLiveWallpapers-3A3A3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://wallpaperwaifu.com/" target="_blank">
+  <img src="https://img.shields.io/badge/WallpaperWaifu-AnimeLiveWallpapers-3A3A3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://desktophut.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DesktopHut-3DLiveWallpapers-3A3A3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://steamcommunity.com/workshop/browse/?appid=431960" target="_blank">
+  <img src="https://img.shields.io/badge/WallpaperEngine-SteamWorkshop-3A3A3A?style=for-the-badge&logo=steam&logoColor=white" /></a>
+
+<a href="https://www.push-entertainment.com/" target="_blank">
+  <img src="https://img.shields.io/badge/PushEntertainment-LiveWallpapers-3A3A3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 
 <div>
