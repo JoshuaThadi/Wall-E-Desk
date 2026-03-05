@@ -31,7 +31,7 @@
 <br/>-->
 
 <h2>Image Upscaling</h2>
-<p>Tools and software for image upscaling to enhance low-resolution images and convert them into higher resolutions such as HD, 4K, or even 8K. This process results in sharper images, reduced noise, and improved clarity, making it ideal for wallpapers, artwork, photography, and digital content enhancement.</p>
+<h4>Tools and software for image upscaling to enhance low-resolution images and convert them into higher resolutions such as HD, 4K, or even 8K. This process results in sharper images, reduced noise, and improved clarity, making it ideal for wallpapers, artwork, photography, and digital content enhancement.</h4>
 
 <a href="https://www.upscayl.org/" target="_blank"> <img src="https://img.shields.io/badge/Upscayl-AI%20Upscaler-4D5054?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://www.topazlabs.com/gigapixel-ai" target="_blank"> <img src="https://img.shields.io/badge/Topaz-Gigapixel%20AI-1E90FF?style=for-the-badge&logo=adobe&logoColor=white" /></a> 
@@ -40,6 +40,33 @@
 <a href="https://www.pixozone.com/ai-image-upscaler" target="_blank"> <img src="https://img.shields.io/badge/Pixozone-AI%20Upscaler-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
 <a href="https://www.somake.ai/tools/image-upscaler" target="_blank"> <img src="https://img.shields.io/badge/Somake-AI%20Upscaler-20B2AA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
 <a href="https://imagefree.org/image-upscale" target="_blank"> <img src="https://img.shields.io/badge/ImageFree-AI%20Upscaler-E91E63?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<h2>Pixel Art Conversion & Nord Palette</h2>
+<h4>Converting images into pixel art transforms high-resolution pictures into retro, block-style graphics inspired by classic games and digital art. This process reduces image details into visible pixels, creating a stylized and minimalist visual effect.</h4>
+
+<a href="https://ign.schroedinger-hat.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Schroedinger-hat-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
+<a href="https://lospec.com/pixelate" target="_blank"> <img src="https://img.shields.io/badge/Lospec-Pixelate-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://giventofly.github.io/pixelit/" target="_blank"> <img src="https://img.shields.io/badge/PixelIt-Pixel%20Converter-5E81AC?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="https://www.imgonline.com.ua/eng/make-pixel-art.php" target="_blank"> <img src="https://img.shields.io/badge/IMGOnline-Pixel%20Art%20Generator-81A1C1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
+<a href="https://www.pixelatorapp.com/" target="_blank"> <img src="https://img.shields.io/badge/Pixelator-Pixel%20Art-88C0D0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
+<a href="https://www.piskelapp.com/" target="_blank"> <img src="https://img.shields.io/badge/Piskel-Pixel%20Editor-B48EAD?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.aseprite.org/" target="_blank"> <img src="https://img.shields.io/badge/Aseprite-Pixel%20Art%20Editor-3B4252?style=for-the-badge&logo=windows&logoColor=white" /></a> 
+<a href="https://www.gimp.org/" target="_blank"> <img src="https://img.shields.io/badge/GIMP-Image%20Editor-4C566A?style=for-the-badge&logo=gimp&logoColor=white" /></a> 
+<a href="https://krita.org/" target="_blank"> <img src="https://img.shields.io/badge/Krita-Digital%20Painting-5E81AC?style=for-the-badge&logo=krita&logoColor=white" /></a> 
+<a href="https://www.pixilart.com/" target="_blank"> <img src="https://img.shields.io/badge/Pixilart-Pixel%20Community-81A1C1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<br>
+
+<h4>The Nord palette is a popular color scheme inspired by the cold, minimal aesthetics of the Arctic. It features soft blues, cool grays, and icy tones that create a calm, modern, and visually balanced appearance. When applied to pixel art or wallpapers, the Nord palette produces clean, elegant visuals that are easy on the eyes and widely used in developer environments, UI themes, and minimalist artwork.</h4>
+
+
+<a href="https://pixelartvillage.com/ " target="_blank">
+  <img src="https://img.shields.io/badge/pixelart-village-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+  <a href="https://pix-forge.com/" target="_blank"> <img src="https://img.shields.io/badge/PixForge-Pixel%20Art%20Converter-4C566A?style=for-the-badge&logo=palette&logoColor=white" /></a>
+<a href="https://www.nordtheme.com/" target="_blank"> <img src="https://img.shields.io/badge/Nord-Official%20Theme-5E81AC?style=for-the-badge&logo=palette&logoColor=white" /></a> 
+<a href="https://pypi.org/project/image-go-nord/" target="_blank"> <img src="https://img.shields.io/badge/ImageGoNord-Python%20Library-2E3440?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://github.com/arcticicestudio/nord" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Nord%20Repository-2E3440?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 
 <h2> 🌟 Live Wallpapers </h2>
@@ -182,14 +209,17 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 <a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/" target="_blank">
   <img src="https://img.shields.io/badge/Wallpapers%20Clan-Anime-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
 
-<a href="https://pixelartvillage.com/ " target="_blank">
-  <img src="https://img.shields.io/badge/pixelart-village-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
 <a href="https://giphy.com/explore/pixel-art" target="_blank">
   <img src="https://img.shields.io/badge/giphy-pixelart-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
+
+<a href="https://www.deviantart.com/search?q=anime" target="_blank">
+  <img src="https://img.shields.io/badge/Deviant-art-4D5054?style=for-the-badge&logo=chrome&logoColor=white" alt="Walls Collection"></a>
+
+
 <a href="https://wallpapercat.com/" target="_blank">
-  <img src="https://img.shields.io/badge/wallpapercat-com-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+  <img src="https://img.shields.io/badge/wallpapercat-com-4D5054?style=for-the-badge&logo=chrome&logoColor=white" alt="Walls Collection"></a>
 
 <a href="https://www.freepik.com/free-photos-vectors/anime-landscape-wallpaper#uuid=3c8d39bc-3122-4259-880d-74a5a1f8b5eb" target="_blank">
   <img src="https://img.shields.io/badge/Freepik-Anime%20Landscape-4D5054?style=for-the-badge&logo=freepik&logoColor=white" alt="Freepik Anime Landscape"></a>
@@ -200,8 +230,7 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 <a href="https://wallpapers-clan.com/desktop-wallpapers/category/aesthetic/" target="_blank">
   <img src="https://img.shields.io/badge/Wallpapers%20Clan-Aesthetic-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
 
-<a href="https://ign.schroedinger-hat.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Schroedinger-hat-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
+
 
 
 
