@@ -44,8 +44,9 @@
 <h2>Pixel Art Conversion & Nord Palette</h2>
 <h4>Converting images into pixel art transforms high-resolution pictures into retro, block-style graphics inspired by classic games and digital art. This process reduces image details into visible pixels, creating a stylized and minimalist visual effect.</h4>
 
-<a href="https://ign.schroedinger-hat.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Schroedinger-hat-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
+<a href="https://pixelartvillage.com/ " target="_blank">
+  <img src="https://img.shields.io/badge/pixelart-village-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+  <a href="https://pix-forge.com/" target="_blank"> <img src="https://img.shields.io/badge/PixForge-Pixel%20Art%20Converter-4C566A?style=for-the-badge&logo=palette&logoColor=white" /></a>
 <a href="https://lospec.com/pixelate" target="_blank"> <img src="https://img.shields.io/badge/Lospec-Pixelate-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://giventofly.github.io/pixelit/" target="_blank"> <img src="https://img.shields.io/badge/PixelIt-Pixel%20Converter-5E81AC?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://www.imgonline.com.ua/eng/make-pixel-art.php" target="_blank"> <img src="https://img.shields.io/badge/IMGOnline-Pixel%20Art%20Generator-81A1C1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
@@ -61,9 +62,8 @@
 <h4>The Nord palette is a popular color scheme inspired by the cold, minimal aesthetics of the Arctic. It features soft blues, cool grays, and icy tones that create a calm, modern, and visually balanced appearance. When applied to pixel art or wallpapers, the Nord palette produces clean, elegant visuals that are easy on the eyes and widely used in developer environments, UI themes, and minimalist artwork.</h4>
 
 
-<a href="https://pixelartvillage.com/ " target="_blank">
-  <img src="https://img.shields.io/badge/pixelart-village-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
-  <a href="https://pix-forge.com/" target="_blank"> <img src="https://img.shields.io/badge/PixForge-Pixel%20Art%20Converter-4C566A?style=for-the-badge&logo=palette&logoColor=white" /></a>
+<a href="https://ign.schroedinger-hat.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Schroedinger-hat-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
 <a href="https://www.nordtheme.com/" target="_blank"> <img src="https://img.shields.io/badge/Nord-Official%20Theme-5E81AC?style=for-the-badge&logo=palette&logoColor=white" /></a> 
 <a href="https://pypi.org/project/image-go-nord/" target="_blank"> <img src="https://img.shields.io/badge/ImageGoNord-Python%20Library-2E3440?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="https://github.com/arcticicestudio/nord" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Nord%20Repository-2E3440?style=for-the-badge&logo=github&logoColor=white" /></a>
