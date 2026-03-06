@@ -73,7 +73,8 @@
 
 
 
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Live%20Wallpapers/pokemon.gif">
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Live%20Wallpapers/levi%20red.gif">
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Live%20Wallpapers/sataro%20gojo.gif">
 
 <h2> 🌟 Live Wallpapers </h2>
 
@@ -82,7 +83,7 @@ Description:
 Bring your desktop to life with this collection of dynamic live wallpapers. These wallpapers feature moving visuals, animated effects, and immersive scenes including nature, futuristic environments, and aesthetic animations. Perfect for users who want a more interactive and visually engaging desktop experience.</h4>
 
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/tree/main/Live%20Wallpapers" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Wallpapers-AA6EDB?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Live-Wallpapers-6199F2?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <a href="https://in.pinterest.com/ideas/free-live-wallpapers-for-pc/915857801017/" target="_blank">
   <img src="https://img.shields.io/badge/pinterest-livewallpapers-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
@@ -179,6 +180,9 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 
 <h2> ⭐ Other Suggested Repository and Websites For Asthetic Wallpapers </h2>
 
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/ign_waifu.png">
+
+
 <a href="https://github.com/SleepyCatHey/CozyPixels" target="_blank">
   <img src="https://img.shields.io/badge/SleepCatHey-CozyPixels-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
@@ -214,6 +218,9 @@ Explore the digital frontier with this IT image file, designed to bring technolo
 
 ---
 
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/ichigo-kurosaki-bankai.jpg">
+
+
 <a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/" target="_blank">
   <img src="https://img.shields.io/badge/Wallpapers%20Clan-Anime-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
 
@@ -239,6 +246,9 @@ Explore the digital frontier with this IT image file, designed to bring technolo
   <img src="https://img.shields.io/badge/Wallpapers%20Clan-Aesthetic-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
 
 ---
+
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/girl%20umbrella.jpg">
+
 
 <a href="https://www.animecanvas.art/" target="_blank">
   <img src="https://img.shields.io/badge/AnimeCanvas-Wallpapers-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -268,6 +278,9 @@ Explore the digital frontier with this IT image file, designed to bring technolo
   <img src="https://img.shields.io/badge/Linux-WallpaperRepo-4C566A?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
+
+<img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Live%20Wallpapers/luffy1.gif">
+
 
 <a href="https://moewalls.com/" target="_blank">
   <img src="https://img.shields.io/badge/MoeWalls-LiveWallpapers-3A3A3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
