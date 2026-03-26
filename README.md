@@ -286,7 +286,7 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 
 <br>
 
-<h4>The Nord palette is a popular color scheme inspired by the cold, minimal aesthetics of the Arctic. It features soft blues, cool grays, and icy tones that create a calm, modern, and visually balanced appearance. When applied to pixel art or wallpapers, the Nord palette produces clean, elegant visuals that are easy on the eyes and widely used in developer environments, UI themes, and minimalist artwork.</h4>
+<h4>Convert normal wallpapers into Nord palette if you like nord wallpapers. The Nord palette is a popular color scheme inspired by the cold, minimal aesthetics of the Arctic. It features soft blues, cool grays, and icy tones that create a calm, modern, and visually balanced appearance. When applied to pixel art or wallpapers, the Nord palette produces clean, elegant visuals that are easy on the eyes and widely used in developer environments, UI themes, and minimalist artwork.</h4>
 
 
 <a href="https://ign.schroedinger-hat.org/" target="_blank">
