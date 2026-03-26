@@ -175,6 +175,8 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 
 <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/ichigo-kurosaki-bankai.jpg">
 
+<a href="https://www.ghibli.jp/works/" target="_blank">
+  <img src="https://img.shields.io/badge/Ghibli-works-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
 
 <a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/" target="_blank">
   <img src="https://img.shields.io/badge/Wallpapers%20Clan-Anime-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
