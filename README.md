@@ -167,6 +167,10 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 <a href="https://github.com/dharmx/walls" target="_blank">
   <img src="https://img.shields.io/badge/Walls-Collection-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
+<a href="https://github.com/yuripreparatore/Studio-Ghibli-Nord-Wallpapers" target="_blank">
+  <img src="https://img.shields.io/badge/Studio-Ghibli-wallpapers-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+
+
 ---
 
 <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/ichigo-kurosaki-bankai.jpg">
