@@ -212,9 +212,14 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 
 <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Anime/girl%20umbrella.jpg">
 
+<a href="https://wallpapercat.com/a-silent-voice-anime-wallpapers#google_vignette" target="_blank">
+  <img src="https://img.shields.io/badge/Wallpapercat-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <a href="https://www.animecanvas.art/" target="_blank">
   <img src="https://img.shields.io/badge/AnimeCanvas-Wallpapers-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<a href="https://www.flickr.com/photos/147283717@N03/albums/72157690416474503/with/48058183641" target="_blank">
+  <img src="https://img.shields.io/badge/flickr-Wallpapers-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <a href="https://www.wallpaperalchemy.com/anime/wallpapers" target="_blank">
   <img src="https://img.shields.io/badge/WallpaperAlchemy-Anime-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
