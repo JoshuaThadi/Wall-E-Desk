@@ -304,6 +304,8 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 
 <a href="https://ign.schroedinger-hat.org/" target="_blank">
   <img src="https://img.shields.io/badge/Schroedinger-hat-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
+<a href="https://paletteswitcher.bruyant.xyz/" target="_blank">
+  <img src="https://img.shields.io/badge/paletteswitcher-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aesthetic Wallpapers Clan"></a>
 <a href="https://www.nordtheme.com/" target="_blank"> <img src="https://img.shields.io/badge/Nord-Official%20Theme-5E81AC?style=for-the-badge&logo=palette&logoColor=white" /></a> 
 <a href="https://pypi.org/project/image-go-nord/" target="_blank"> <img src="https://img.shields.io/badge/ImageGoNord-Python%20Library-2E3440?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="https://github.com/arcticicestudio/nord" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Nord%20Repository-2E3440?style=for-the-badge&logo=github&logoColor=white" /></a>
