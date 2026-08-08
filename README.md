@@ -251,6 +251,8 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 
 <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Live%20Wallpapers/luffy1.gif">
 
+<a href="https://wallspace.app/" target="_blank">
+  <img src="https://img.shields.io/badge/WallSpace-MACOS-3A3A3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <a href="https://moewalls.com/" target="_blank">
   <img src="https://img.shields.io/badge/MoeWalls-LiveWallpapers-3A3A3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
