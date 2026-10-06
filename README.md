@@ -136,6 +136,9 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 <a href="https://github.com/dharmx/walls" target="_blank">
   <img src="https://img.shields.io/badge/dharmx-walls-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
+<a href="https://wallhaven.cc/user/lewdpatriot/favorites/935888?page=6" target="_blank">
+  <img src="https://img.shields.io/badge/lewd-patriot-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
+
 <a href="https://github.com/SleepyCatHey/CozyPixels" target="_blank">
   <img src="https://img.shields.io/badge/SleepCatHey-CozyPixels-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
@@ -186,13 +189,15 @@ Immerse yourself in futuristic worlds with this sci-fi image file. It showcases 
 <a href="https://wallpapercave.com/categories/anime-manga" target="_blank">
   <img src="https://img.shields.io/badge/Wallpapers-Cave-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
 
-<a href="https://wallpapers-clan.com/desktop-wallpapers/category/anime/" target="_blank">
-  <img src="https://img.shields.io/badge/Wallpapers%20Clan-Anime-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
+<a href="https://gitlab.com/dwt1/wallpapers/-/blob/master/0037.jpg?ref_type=heads" target="_blank">
+  <img src="https://img.shields.io/badge/dwt1-4D5054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anime Wallpapers Clan"></a>
 
 
 <a href="https://giphy.com/explore/pixel-art" target="_blank">
   <img src="https://img.shields.io/badge/giphy-pixelart-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
+<a href="https://wallhaven.cc/user/lewdpatriot/favorites/935888?page=6" target="_blank">
+  <img src="https://img.shields.io/badge/lewd-patriot-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Walls Collection"></a>
 
 <a href="https://www.deviantart.com/search?q=anime" target="_blank">
   <img src="https://img.shields.io/badge/Deviant-art-4D5054?style=for-the-badge&logo=chrome&logoColor=white" alt="Walls Collection"></a>
